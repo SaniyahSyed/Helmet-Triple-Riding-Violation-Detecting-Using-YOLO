@@ -1,0 +1,8 @@
+path: "C:\\Users\\bspha\\OneDrive\\Desktop\\YOLOTripleRiding_HelmetViolations\\Helmet Dataset(Improved)"
+train: images/train  
+val: images/train
+names:
+  0: Vehicle_person
+  1: Helmet
+  2: No_helmet
+
