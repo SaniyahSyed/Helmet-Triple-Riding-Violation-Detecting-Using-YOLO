@@ -1,0 +1,46 @@
+{
+    "os": "Windows-10-10.0.26100-SP0",
+    "python": "3.9.12",
+    "heartbeatAt": "2024-12-18T08:54:06.150915",
+    "startedAt": "2024-12-18T08:54:05.228967",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "ML_PC",
+    "username": "91997",
+    "executable": "c:\\Users\\91997\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3600.0,
+        "min": 0.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 446.35546493530273,
+            "used": 416.1566162109375
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 23.914600372314453
+    }
+}
